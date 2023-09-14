@@ -1,0 +1,21 @@
+.header{
+  max-width: 90%;
+  margin: 0 auto;
+  background-color: aquamarine;
+  text-align: center;
+}
+
+.main-content{
+  max-width: 87vw;
+  margin: 3vw auto;
+  background-color: lightgrey;
+}
+
+.content{
+  width: 26vw;
+  height: 100px ;
+  margin: 3px 1.5vw;
+  background-color: coral;
+  float: left;
+}
+

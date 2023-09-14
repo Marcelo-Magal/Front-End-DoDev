@@ -1,0 +1,23 @@
+.header{
+  max-width: 80%;
+  margin: 0 auto;
+  background-color: deeppink;
+  text-align: center;
+  
+}
+
+.main-content{
+  max-width: 90vw;
+  margin: 30px auto;
+  
+}
+
+.content{
+  width: 41vw;
+  height: 100px;
+  margin: 2px 2vw;
+  background-color: mediumslateblue;
+  float:left;
+  text-align:center;
+  
+}
